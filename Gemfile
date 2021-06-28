@@ -5,6 +5,7 @@ gem "middleman-blog"
 gem 'middleman-autoprefixer'
 gem "middleman-livereload"
 gem "rack", ">= 2.1.4"
+gem "activesupport", ">= 5.2.4.3"
 gem "slim"
 gem "kramdown", ">= 2.3.1"
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
