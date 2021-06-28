@@ -4,7 +4,7 @@ gem 'middleman'
 gem "middleman-blog"
 gem 'middleman-autoprefixer'
 gem "middleman-livereload"
-
+gem "rack", ">= 2.1.4"
 gem "slim"
 
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
